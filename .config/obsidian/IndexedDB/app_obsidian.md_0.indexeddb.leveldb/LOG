@@ -1,3 +1,15 @@
-2023/12/06-17:18:05.806 7bb Reusing MANIFEST /home/ross/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/06-17:18:05.806 7bb Recovering log #3
-2023/12/06-17:18:05.807 7bb Reusing old log /home/ross/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2023/12/07-13:04:54.298 4bdd Reusing MANIFEST /home/ross/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/07-13:04:54.298 4bdd Recovering log #3
+2023/12/07-13:04:54.299 4bdd Reusing old log /home/ross/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2023/12/07-15:55:08.118 4bdd Level-0 table #5: started
+2023/12/07-15:55:08.133 4bdd Level-0 table #5: 1310516 bytes OK
+2023/12/07-15:55:08.136 4bdd Delete type=0 #3
+2023/12/07-17:29:49.799 4c54 Level-0 table #7: started
+2023/12/07-17:29:49.814 4c54 Level-0 table #7: 1300271 bytes OK
+2023/12/07-17:29:49.818 4c54 Delete type=0 #4
+2023/12/07-17:31:26.259 4bdd Compacting 1@1 + 1@2 files
+2023/12/07-17:31:26.273 4bdd Generated table #8@1: 453 keys, 108104 bytes
+2023/12/07-17:31:26.273 4bdd Compacted 1@1 + 1@2 files => 108104 bytes
+2023/12/07-17:31:26.275 4bdd compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/07-17:31:26.275 4bdd Delete type=2 #5
+2023/12/07-17:31:26.275 4bdd Delete type=2 #7

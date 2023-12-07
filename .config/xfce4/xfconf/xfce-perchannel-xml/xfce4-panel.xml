@@ -62,6 +62,9 @@
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="clipman"/>
       </property>
+      <property name="known-items" type="array">
+        <value type="string" value="steam"/>
+      </property>
     </property>
     <property name="plugin-3" type="string" value="tasklist">
       <property name="grouping" type="uint" value="1"/>
@@ -72,6 +75,7 @@
     </property>
     <property name="plugin-9" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="known-players" type="string" value="firefox"/>
     </property>
     <property name="plugin-8" type="string" value="whiskermenu">
       <property name="button-icon" type="string" value="/usr/share/icons/whiskermenu-manjaro.svg"/>
@@ -87,14 +91,16 @@
         <value type="string" value="firefox.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="org.gnome.DiskUtility.desktop"/>
+        <value type="string" value="steam.desktop"/>
+        <value type="string" value="gparted.desktop"/>
+        <value type="string" value="org.gnome.Nautilus.desktop"/>
+        <value type="string" value="stoken-gui-small.desktop"/>
         <value type="string" value="xfce4-appfinder.desktop"/>
         <value type="string" value="xfce4-mime-settings.desktop"/>
         <value type="string" value="xfce-ui-settings.desktop"/>
         <value type="string" value="kvantummanager.desktop"/>
         <value type="string" value="manjaro-settings-manager.desktop"/>
-        <value type="string" value="Alacritty.desktop"/>
-        <value type="string" value="firefox.desktop"/>
-        <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
     </property>
     <property name="plugin-5" type="string" value="clock"/>

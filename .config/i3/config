@@ -201,7 +201,7 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 
 # japan_wallpaper
-exec_always feh --bg-fill .config/i3/wallpapers/japan_wallpaper.jpg
+# exec_always feh --bg-fill .config/i3/wallpapers/japan_wallpaper.jpg
 
 # forest wallpapers
 # exec_always feh --bg-fill .config/i3/wallpapers/forest.jpg
@@ -229,6 +229,9 @@ exec_always feh --bg-fill .config/i3/wallpapers/japan_wallpaper.jpg
 
 # ign-waifu
 # exec_always feh --bg-fill .config/i3/wallpapers/ign-waifu.png
+
+# dark horizon 
+exec_always feh --bg-fill .config/i3/wallpapers/dark_horizon.jpg
 
 exec_always bash ~/.config/polybar/launch.sh
 
